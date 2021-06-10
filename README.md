@@ -31,6 +31,6 @@ The lecture videos are available on Hung-Yi Lee's [youtube channel](https://www.
 * HW10 : Adversarial Attack
 * HW11 : Adaptation
 * HW12 : Reinforcement Learning
-* HW13 : Life-Long Learning
-* HW14 : Compression
+* HW13 : Network Compression
+* HW14 : Life-Long Learning
 * HW15 : Meta Learning
