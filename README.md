@@ -2,7 +2,6 @@
 <p>
   <h2 align="center">
   機器學習 Machine Learning 2021 Spring by National Taiwan University<br>
-    (每週更新! Update Every Week!)
   </h2>
 </p>
 
